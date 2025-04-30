@@ -2,8 +2,7 @@
 # 🛒 PHPecommerce
 
 ![PHP](https://img.shields.io/badge/PHP-7.x-blue)
-![Status](https://img.shields.io/badge/status-em%20completo-green)
-![License](https://img.shields.io/badge/license-MIT-green)
+![Status](https://img.shields.io/badge/status-%20concluído-green)
 ![Last Commit](https://img.shields.io/github/last-commit/PedroRomaoDev/PHPecommerce)
 
 Projeto de e-commerce desenvolvido em **PHP puro**, utilizando o padrão de arquitetura **MVC (Model-View-Control)**. O sistema permite navegação entre menus de usuário e administrador, organização por camadas e manipulação de banco de dados com MySQL.
