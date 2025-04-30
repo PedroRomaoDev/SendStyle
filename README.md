@@ -2,7 +2,7 @@
 # 🛒 PHPecommerce
 
 ![PHP](https://img.shields.io/badge/PHP-7.x-blue)
-![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
+![Status](https://img.shields.io/badge/status-em%20completo-green)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Last Commit](https://img.shields.io/github/last-commit/PedroRomaoDev/PHPecommerce)
 
@@ -86,10 +86,6 @@ Projeto de e-commerce desenvolvido em **PHP puro**, utilizando o padrão de arqu
 ## 📬 Contato
 
 Desenvolvido por **Pedro Romão**  
-[GitHub](https://github.com/PedroRomaoDev) • [LinkedIn](https://www.linkedin.com/in/seu-usuario) • pedroromaodev@email.com
+[GitHub](https://github.com/PedroRomaoDev) • [LinkedIn](https://www.linkedin.com/in/pedro-rom%C3%A3o-2615572b3/) • pedroromaodev@email.com
 
----
 
-## 📝 Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
