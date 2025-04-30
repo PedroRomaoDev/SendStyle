@@ -85,6 +85,6 @@ Projeto de e-commerce desenvolvido em **PHP puro**, utilizando o padrão de arqu
 ## 📬 Contato
 
 Desenvolvido por **Pedro Romão**  
-[GitHub](https://github.com/PedroRomaoDev) • [LinkedIn](https://www.linkedin.com/in/pedro-rom%C3%A3o-2615572b3/) • pedroromaodev@email.com
+[GitHub](https://github.com/PedroRomaoDev) • [LinkedIn](https://www.linkedin.com/in/pedro-rom%C3%A3o-2615572b3/) • pedro7ntj@email.com
 
 
